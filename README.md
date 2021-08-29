@@ -20,14 +20,14 @@ Otra opción es subir los notebooks que quieras a [Google Colab](https://colab.r
 
 ## Organización de los archivos
 
-1. **Introducción**
-2. **Procesado de texto**
-3. **Naive Bayes**
-4. **Hidden Markov Models para etiquetado gramatical (part-of-speech-tagging)**
-5. **Extracción de Features y Embeddings**
-6. **Topic Modeling**
-7. **Análisis de sentimientos**
-8. **Redes neuronales recurrentes**
-9. **Atención en el Deep Learning**
-10. **Interfaces de voz**
-11. **Reconocimiento de voz**
+1. [**Introducción**](https://github.com/aaronespasa/nlp-notebook/tree/main/01.Introduccion)
+2. [**Procesado de texto**](https://github.com/aaronespasa/nlp-notebook/tree/main/02.Procesado-Texto)
+3. [**Naive Bayes**](https://github.com/aaronespasa/nlp-notebook/tree/main/03.Naive-Bayes)
+4. [**Hidden Markov Models para etiquetado gramatical (part-of-speech-tagging)**](https://github.com/aaronespasa/nlp-notebook/tree/main/04.HMM-Etiquetado-Gramatical)
+5. [**Extracción de Features y Embeddings**](https://github.com/aaronespasa/nlp-notebook/tree/main/05.Extraccion-Features-Y-Embeddings)
+6. [**Topic Modeling**](https://github.com/aaronespasa/nlp-notebook/tree/main/06.Topic-Modeling)
+7. [**Análisis de sentimientos**](https://github.com/aaronespasa/nlp-notebook/tree/main/07.Analisis-Sentimientos)
+8. [**Redes neuronales recurrentes**](https://github.com/aaronespasa/nlp-notebook/tree/main/08.RNN)
+9. [**Atención en el Deep Learning**](https://github.com/aaronespasa/nlp-notebook/tree/main/09.Atencion-DL)
+10. [**Interfaces de voz**](https://github.com/aaronespasa/nlp-notebook/tree/main/10.Interfaces-Voz)
+11. [**Reconocimiento de voz**](https://github.com/aaronespasa/nlp-notebook/tree/main/11.Reconocimiento-Voz)
