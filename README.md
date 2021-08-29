@@ -1,5 +1,9 @@
 # Apuntes de Natural Language Processing (NLP)
 
+*He decidido hacer los apuntes en español ya que se me hace más sencillo explicar términos teóricos complejos.*
+
+*If you are interested in an english version of these notes, let me know by sending me a message to @aaronespasa (Twitter or LinkedIn).*
+
 ## Cómo leer los apuntes
 
 Recomiendo 3 tipos diferentes de programas dependiendo del tipo de archivo:
